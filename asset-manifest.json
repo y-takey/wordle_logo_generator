@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "wordle_logo_generator/static/css/main.406ea719.css",
-    "main.js": "wordle_logo_generator/static/js/main.45494cbb.js",
-    "static/js/787.a524cf9c.chunk.js": "wordle_logo_generator/static/js/787.a524cf9c.chunk.js",
-    "index.html": "wordle_logo_generator/index.html",
-    "main.406ea719.css.map": "wordle_logo_generator/static/css/main.406ea719.css.map",
-    "main.45494cbb.js.map": "wordle_logo_generator/static/js/main.45494cbb.js.map",
-    "787.a524cf9c.chunk.js.map": "wordle_logo_generator/static/js/787.a524cf9c.chunk.js.map"
+    "main.css": "/wordle_logo_generator/static/css/main.406ea719.css",
+    "main.js": "/wordle_logo_generator/static/js/main.f240be08.js",
+    "static/js/787.a524cf9c.chunk.js": "/wordle_logo_generator/static/js/787.a524cf9c.chunk.js",
+    "index.html": "/wordle_logo_generator/index.html",
+    "main.406ea719.css.map": "/wordle_logo_generator/static/css/main.406ea719.css.map",
+    "main.f240be08.js.map": "/wordle_logo_generator/static/js/main.f240be08.js.map",
+    "787.a524cf9c.chunk.js.map": "/wordle_logo_generator/static/js/787.a524cf9c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.406ea719.css",
-    "static/js/main.45494cbb.js"
+    "static/js/main.f240be08.js"
   ]
 }
